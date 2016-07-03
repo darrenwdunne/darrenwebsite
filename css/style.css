@@ -11,6 +11,10 @@
   background-color: green;
 }
 
+#metitle {
+  font-size: 30px;
+}
+
 body {
   padding-top: 50px;
 }
@@ -18,4 +22,9 @@ body {
 .content-template {
   padding: 0px 14px;
   text-align: center;
+}
+
+#footer {
+  margin-top: 2px;
+  margin-bottom: 2px;
 }
