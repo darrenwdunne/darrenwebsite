@@ -10,3 +10,12 @@
 .green {
   background-color: green;
 }
+
+body {
+  padding-top: 50px;
+}
+
+.content-template {
+  padding: 0px 14px;
+  text-align: center;
+}
