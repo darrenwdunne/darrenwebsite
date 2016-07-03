@@ -1,15 +1,4 @@
 /* */
-.red {
-  background-color: red;
-}
-
-.blue {
-  background-color: blue;
-}
-
-.green {
-  background-color: green;
-}
 
 #metitle {
   font-size: 30px;
@@ -24,7 +13,24 @@ body {
   text-align: center;
 }
 
+.jumbotron {
+  text-align: center;
+  color: black;
+  background-image: url('../images/1-bluemarble_west.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+}
+
 #footer {
   margin-top: 2px;
   margin-bottom: 2px;
+}
+
+#headshot {
+  border-radius: 16px;
+  border: 2px solid gray;
+  width: 200px;
+  box-shadow: 4px 5px 28px -2px;
+
 }
